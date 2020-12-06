@@ -1,4 +1,4 @@
-📦 ⚡ 🚀 Boilerplate to organize and deploy big projects using Serverless Framework
+## 📦 ⚡ 🚀 Boilerplate to organize and deploy big projects using Serverless Framework
 
 - API Gateway
 - AWS Lambda
